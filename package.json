@@ -1,0 +1,12 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AmoDinho/hackernews-node.git",
+  "author": "Amo Moloko <u14284783@tuks.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10",
+    "prisma-binding": "^2.1.0"
+  }
+}

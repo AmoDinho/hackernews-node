@@ -1,0 +1,12 @@
+service: hackernews-node
+
+
+stage: dev
+
+datamodel: datamodel.graphql
+
+secret: mysecrect123
+cluster: public-prongprince-384/prisma-eu1
+
+
+endpoint: https://eu1.prisma.sh/public-prongprince-384/hackernews-node/dev
