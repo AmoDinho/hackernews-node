@@ -6,7 +6,9 @@
   "author": "Amo Moloko <u14284783@tuks.co.za>",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "graphql-yoga": "^1.14.10",
+    "jsonwebtoken": "^8.3.0",
     "prisma-binding": "^2.1.0"
   }
 }
