@@ -1,12 +1,12 @@
-#service: hackernews-node
+service: hackernews-node
 
 
-#stage: dev
+stage: dev
 
 datamodel: datamodel.graphql
 
 secret: mysecret123
-#cluster: public-prongprince-384/prisma-eu1
+cluster: public-prongprince-384/prisma-eu1
 
 
 
